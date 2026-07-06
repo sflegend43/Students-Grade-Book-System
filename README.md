@@ -7,7 +7,6 @@ A simple C++ console application for managing student marks, calculating GPA, ra
 
 - `Project/new.cpp` - Main C++ source file containing the gradebook application.
 - `Project/student.txt` - Sample data file used to store student records.
-- `Project/new.exe` - Compiled executable (Windows).
 
 ## Features
 
