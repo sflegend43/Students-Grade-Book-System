@@ -1,0 +1,5 @@
+1 Saim Farooq 70 76 90 89 90 415 3.32
+2 Muhammad Sharjeel 87 45 69 88 47 336 2.688
+3 Yasir Ali 90 78 88 46 90 392 3.136
+56 Babar Azam 98 100 96 78 45 417 3.336
+65 Moaz Abdullah 87 89 78 90 45 389 3.112
